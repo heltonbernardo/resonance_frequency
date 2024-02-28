@@ -1,8 +1,13 @@
 Hi, I'm Helton Bernardo.
 
-## Analyzing the resonance frequency, leakage energy and effective permittivity
+## Analyzing the higher order modes in Microstrip Antenna Patches
 
-With this open code wrote in `notebook jupyter python` algorithm, we can plot **effective permittivity**[^1] effect of the electromagnetic phenomenon in Microstrip Antenna Patches.
+With this code we can compute:
+[x] resonance frequency
+[x] Leakage energy (effective extended length)
+[x] And effective relative permittivity
+
+It is an open code wrote in `notebook jupyter python`, which we can plot **effective permittivity**[^1] effect of the electromagnetic phenomenon in Microstrip Antenna Patches.
 It is so usefull for design and analysis of the patches antennas for electromagnetics simulations. 
 Also, we can compute the **resonance frequency** of the any TM<sub>mn</sub>-mode by cavity method using the electromagnetic principles.
 
